@@ -1,0 +1,72 @@
+.downcntr{
+    height: 35vh;
+    width: 100%;
+    display: flex; 
+    flex-direction: row;
+    
+}
+
+.d1{
+    height:   100%;
+    width: 30%;
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+    background-image: url("https://th.bing.com/th/id/OIP.3LtNUKds3685zBTTGIv8jgHaEK?rs=1&pid=ImgDetMain");
+    background-size: cover;
+    background-position: center;
+    opacity: 0.9;
+    
+}
+
+.d2{
+    height:   100%;
+    width: 40%;
+    text-align: center;
+    color: white;
+    background-color: rgb(209, 138, 23);
+    background-image: url("https://nationalseniors.com.au/generated/share-image/istock-1347883174-lightteal-jpg.jpg");
+    background-size: cover;
+    background-position: center;
+    
+    
+}
+.d3{
+    height: 100%;
+    width: 30%;
+    text-align: center;
+    color: rgb(238, 245, 212);
+    background-color: rgb(235, 240, 212);
+   
+    background-image: url("https://www.ryadel.com/wp-content/uploads/2019/07/Bootstrap-and-Web-Design-1024x768.jpg");
+    background-size: cover;
+    background-position: cenetr;
+
+}
+.d11{
+    font-weight: 900; 
+    color: white;
+}
+.list {
+    margin-left: 65px;
+    font-style: italic;
+    font-size: 16px;
+    font-weight: bold;
+    
+}
+.skilllist {
+    text-align:start;
+    font-size: 16px;
+    color: rgb(4, 47, 89);
+    font-style: italic;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+.projectlist{
+    text-align:start;
+    font-style: italic;
+    font-size: 16px;
+    font-weight: bold;
+
+}
